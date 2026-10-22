@@ -2,7 +2,7 @@
 # Iris Flower Classification
 # Oasis Infobyte Data Science Internship
 
-import pandas as pd
+import pandas as pd 
 import matplotlib.pyplot as plt
 
 from sklearn.datasets import load_iris
@@ -12,12 +12,12 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import (
-    accuracy_score,
+    accuracy_score,  
     classification_report,
     ConfusionMatrixDisplay
 )
 
-# 1. Load the Iris dataset
+# 1. Load the Iris dataset wfgtreydhtr
 iris = load_iris()
 
 X = pd.DataFrame(iris.data, columns=iris.feature_names)
