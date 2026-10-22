@@ -1,0 +1,10 @@
+Column,Missing Values,Data Type
+Transaction ID,0,int64
+Date,0,datetime64[us]
+Customer ID,0,str
+Gender,0,str
+Age,0,int64
+Product Category,0,str
+Quantity,0,int64
+Price per Unit,0,int64
+Total Amount,0,int64

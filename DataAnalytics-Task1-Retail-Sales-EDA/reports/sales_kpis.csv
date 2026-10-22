@@ -1,0 +1,9 @@
+Metric,Value
+Total Revenue,456000.0
+Unique Transactions,1000.0
+Average Transaction Amount,456.0
+Median Transaction Amount,135.0
+Unique Customers,1000.0
+Original Rows,1000.0
+Rows After Duplicate Removal,1000.0
+Invalid Dates Excluded,0.0
